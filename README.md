@@ -33,7 +33,7 @@ A full-stack developer and open-source enthusiast from the internet (or Gensokyo
 如果你也喜欢技术（或者东方），欢迎随时找我交流！
 </p>
 
-<h3>📫 Contact / 联系方式</h3>
+<h3>Contact / 联系方式</h3>
 <!-- 徽章链接 -->
 <p>
 <a href="mailto:reisen7@foxmail.com">
@@ -64,7 +64,7 @@ A full-stack developer and open-source enthusiast from the internet (or Gensokyo
 
 <!-- 🐍 贪吃蛇游戏区域 -->
 <div align="center">
-<h3>🐍 Contribution Snake</h3>
+<h3>Contribution Snake</h3>
 <p>The snake eats my contributions! </p>
 
 <picture>
