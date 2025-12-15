@@ -65,7 +65,7 @@ A full-stack developer and open-source enthusiast from the internet (or Gensokyo
 <!-- 🐍 贪吃蛇游戏区域 -->
 <div align="center">
 <h3>🐍 Contribution Snake</h3>
-<p>The snake eats my contributions! / 贪吃蛇正在吃掉我的提交记录</p>
+<p>The snake eats my contributions! </p>
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reisen7/reisen7/output/github-contribution-grid-snake-dark.svg">
