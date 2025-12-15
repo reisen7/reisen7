@@ -1,11 +1,9 @@
-<!-- 顶部动态 Banner -->
+<!-- 顶部动态波浪 Banner：紫色调致敬 Reisen -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=290838,6B21A8,A855F7&height=220&section=header&text=Reisen7&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" />
-
-<!-- 打字机动态文字 -->
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FCA5A5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Java+%2B+Python+%2B+Rust;%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91+%7C+%E7%83%AD%E7%88%B1%E5%BC%80%E6%BA%90;Touhou+Project+Fan+%28Reisen+U.+Inaba%29;%E4%B8%9C%E6%96%B9Project+%E9%93%83%E4%BB%99%E6%8E%A8+%E2%91%A8" alt="Typing SVG" />
-</a>
+  <!-- 打字机动态文字 -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9333EA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%7C+Python+%7C+Rust;Touhou+Project+Fan+%E2%91%A8;Open+Source+Enthusiast" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
@@ -13,8 +11,8 @@
 <!-- 核心介绍区域：左右分栏 -->
 <table align="center" border="0">
 <tr>
-<td width="65%" valign="top">
-<h2>🐰 About Me / 关于我</h2>
+<td width="90%" valign="top">
+<h2> About Me / 关于我</h2>
 <p>
 Hi there! I'm <b>Reisen7</b>. <br>
 A full-stack developer and open-source enthusiast from the internet (or Gensokyo?).
@@ -26,7 +24,6 @@ A full-stack developer and open-source enthusiast from the internet (or Gensokyo
 
 <!-- 详细中文介绍块 -->
 <br/>
-<blockquote>
 <p><b>个人简介</b></p>
 <p>
 我是一枚热衷于造轮子的全栈开发者，主攻 <b>Java, Python, Rust</b> 技术栈。
@@ -35,7 +32,6 @@ A full-stack developer and open-source enthusiast from the internet (or Gensokyo
 平时活跃于开源社区，喜欢研究新技术，致力于编写“Lunatic”级别难度的逻辑，但保持“Easy”级别的可读性。
 如果你也喜欢技术（或者东方），欢迎随时找我交流！
 </p>
-</blockquote>
 
 <h3>📫 Contact / 联系方式</h3>
 <!-- 徽章链接 -->
@@ -47,16 +43,6 @@ A full-stack developer and open-source enthusiast from the internet (or Gensokyo
 <img src="https://img.shields.io/badge/QQ-328170849-3b82f6?style=flat-square&logo=tencentqq&logoColor=white" alt="QQ" />
 </a>
 </p>
-</td>
-
-<!-- 右侧：个人数据卡片 -->
-<td width="35%" valign="center" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=reisen7&show_icons=true&theme=dark&bg_color=0d1117&title_color=A855F7&text_color=B0B8C1&icon_color=ef4444&hide_border=true" alt="Reisen7's Stats" style="width:100%" />
-<br/><br/>
-<!-- 连击统计 -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=reisen7&theme=dark&background=0d1117&ring=A855F7&currStreakLabel=ef4444&fire=ef4444&hide_border=true" style="width:100%" />
-</td>
-</tr>
 </table>
 
 <br/>
