@@ -2,7 +2,7 @@
 <div align="center">
   <!-- 打字机动态文字 -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Core+Expertise%3A+Java+%2B+Python;Polyglot%3A+Go+%7C+Rust+%7C+PHP+%7C+JS;Full+Stack+Developer+%7C+Open+Source;Touhou+Project+Fan+%28Reisen+U.+Inaba%29" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Core+Expertise%3A+Java+%2B+Python;Polyglot%3A+Go+%7C+Rust+%7C+PHP+%7C+JS;Full+Stack+Developer+%7C+Open+Source" alt="Typing SVG" />
 </a>
 </div>
 
