@@ -1,39 +1,50 @@
 <!-- 顶部动态波浪 Banner：紫色调致敬 Reisen -->
 <div align="center">
   <!-- 打字机动态文字 -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9333EA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%7C+Python+%7C+Rust;Touhou+Project+Fan+%E2%91%A8;Open+Source+Enthusiast" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Core+Expertise%3A+Java+%2B+Python;Polyglot%3A+Go+%7C+Rust+%7C+PHP+%7C+JS;Full+Stack+Developer+%7C+Open+Source;Touhou+Project+Fan+%28Reisen+U.+Inaba%29" alt="Typing SVG" />
+</a>
 </div>
 
 <br/>
 
-<!-- 核心介绍区域：左右分栏 -->
+<!-- Main Content: Bio & Stats (Bilingual Version) -->
 <table align="center" border="0">
 <tr>
-<td width="90%" valign="top">
-<h2> About Me / 关于我</h2>
+<td width="65%" valign="top">
+<h2>About Me</h2>
 <p>
 Hi there! I'm <b>Reisen7</b>. <br>
-A full-stack developer and open-source enthusiast from the internet (or Gensokyo?).
-</p>
-<p>
-你好！我是 <b>Reisen7</b>。<br>
-一名全栈工程师，目前专注于构建高效、优雅的后端服务与全栈应用。
+A <b>Polyglot Developer</b> who believes in choosing the right tool for the job.
+<br>
+<i>(你好！我是 Reisen7。一名信奉“工欲善其事”的多语言全栈开发者)</i>
 </p>
 
-<!-- 详细中文介绍块 -->
-<br/>
-<p><b>个人简介</b></p>
+<br>
+<blockquote>
+<p><b>❝ Introduction</b></p>
 <p>
-我是一枚热衷于造轮子的全栈开发者，主攻 <b>Java, Python, Rust</b> 技术栈。
-就像《东方 Project》中的铃仙操纵波长一样，我也喜欢在代码的世界里寻找逻辑的波动与平衡。
-<br><br>
-平时活跃于开源社区，喜欢研究新技术，致力于编写“Lunatic”级别难度的逻辑，但保持“Easy”级别的可读性。
-如果你也喜欢技术（或者东方），欢迎随时找我交流！
+I specialize in building robust backend services and complex systems using <b>Java</b> and <b>Python</b>.
+Like Reisen manipulating wavelengths, I enjoy finding the perfect balance in code logic.
+<br>
+<i>(我专注于使用 <b>Java</b> 和 <b>Python</b> 构建核心业务。就像铃仙操纵波长一样，我也乐于在代码逻辑中寻找完美的平衡。)</i>
 </p>
+<br>
+<p>
+However, I don't limit myself to a single language. My arsenal includes <b>Go, Rust, PHP, and JavaScript</b>.
+I am adaptable and always ready to switch stacks to solve the problem at hand effectively.
+<br>
+<i>(但我从不被单一语言束缚。<b>Go, Rust, PHP, JS</b> 都是我的武器。我习惯根据实际问题灵活切换技术栈，以寻求最优解。)</i>
+</p>
+<br>
+<p>
+I love <b>Open Source</b> and strive to write code that has "Lunatic" level performance but "Easy" level readability.
+<br>
+<i>(致力于编写既有 "Lunatic" 级性能，又有 "Easy" 级可读性的代码。)</i>
+</p>
+</blockquote>
 
-<h3>Contact / 联系方式</h3>
+<h3>Contact</h3>
 <!-- 徽章链接 -->
 <p>
 <a href="mailto:reisen7@foxmail.com">
@@ -50,7 +61,7 @@ A full-stack developer and open-source enthusiast from the internet (or Gensokyo
 <!-- 技术栈：图标墙 -->
 <div align="center">
 <h3>🛠️ Tech Stack / 技术栈</h3>
-<img src="https://skillicons.dev/icons?i=java,python,rust,spring,mysql,redis,docker,kubernetes,git,linux,react,vue,idea,vscode&theme=dark&perline=14" />
+<img src="https://skillicons.dev/icons?i=java,python,rust,golang,spring,mysql,redis,docker,kubernetes,git,linux,react,vue,idea,vscode&theme=dark&perline=14" />
 </div>
 
 <br/>
