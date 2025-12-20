@@ -14,10 +14,10 @@
 <td width="65%" valign="top">
 <h2>About Me</h2>
 <p>
-Hi there! I'm <b>MariSen</b>. <br>
+Hi there! I'm <b>Aurey</b>. <br>
 A <b>Polyglot Developer</b> who believes in choosing the right tool for the job.
 <br>
-<i>(你好！我是 MariSen。一名信奉“工欲善其事”的多语言全栈开发者)</i>
+<i>(你好！我是 Aurey。一名信奉“工欲善其事”的多语言全栈开发者)</i>
 </p>
 
 <br>
@@ -27,20 +27,20 @@ A <b>Polyglot Developer</b> who believes in choosing the right tool for the job.
 I specialize in building robust backend services and complex systems using <b>Java</b> and <b>Python</b>.
 Like Reisen manipulating wavelengths, I enjoy finding the perfect balance in code logic.
 <br>
-<i>(我专注于使用 <b>Java</b> 和 <b>Python</b> 构建核心业务。就像铃仙操纵波长一样，我也乐于在代码逻辑中寻找完美的平衡。)</i>
+<i>(我专注于使用 <b>Java</b> 和 <b>Python</b> 构建核心业务。就像铃仙操纵波长一样，我也乐于在代码逻辑中寻找完美的平衡)</i>
 </p>
 <br>
 <p>
 However, I don't limit myself to a single language. My arsenal includes <b>Go, Rust, PHP, and JavaScript</b>.
 I am adaptable and always ready to switch stacks to solve the problem at hand effectively.
 <br>
-<i>(但我从不被单一语言束缚。<b>Go, Rust, PHP, JS</b> 都是我的武器。我习惯根据实际问题灵活切换技术栈，以寻求最优解。)</i>
+<i>(但我从不被单一语言束缚。<b>Go, Rust, PHP, JS</b> 都是我的武器。我习惯根据实际问题灵活切换技术栈，以寻求最优解)</i>
 </p>
 <br>
 <p>
 I love <b>Open Source</b> and strive to write code that has "Lunatic" level performance but "Easy" level readability.
 <br>
-<i>(致力于编写既有 "Lunatic" 级性能，又有 "Easy" 级可读性的代码。)</i>
+<i>(致力于编写既有 "Lunatic" 级性能，又有 "Easy" 级可读性的代码)</i>
 </p>
 </blockquote>
 
