@@ -14,10 +14,10 @@
 <td width="65%" valign="top">
 <h2>About Me</h2>
 <p>
-Hi there! I'm <b>Aurey</b>. <br>
+Hi there! I'm <b>Marisen</b>. <br>
 A <b>Polyglot Developer</b> who believes in choosing the right tool for the job.
 <br>
-<i>(你好！我是 Aurey。一名信奉“工欲善其事”的多语言全栈开发者)</i>
+<i>(你好！我是Marisen。一名信奉“工欲善其事”的多语言全栈开发者)</i>
 </p>
 
 <br>
