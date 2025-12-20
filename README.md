@@ -60,7 +60,7 @@ I love <b>Open Source</b> and strive to write code that has "Lunatic" level perf
 
 <!-- 技术栈：图标墙 -->
 <div align="center">
-<h3>🛠️ Tech Stack / 技术栈</h3>
+<h3>🛠️ Tech Stack</h3>
 <img src="https://skillicons.dev/icons?i=java,python,rust,golang,spring,mysql,redis,docker,kubernetes,git,linux,react,vue,idea,vscode&theme=dark&perline=14" />
 </div>
 
