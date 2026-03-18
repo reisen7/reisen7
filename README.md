@@ -25,7 +25,7 @@
 ```text
 Name     Ryn
 Role     Freelancer / Developer
-Style    Mischievous · Cute · Yandere
+Style    腹黒 · ツンデレ · ヤンデレ
 Theme    Purple Moon · Rabbit Vibes · Clean Code
 ````
 
