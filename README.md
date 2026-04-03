@@ -22,12 +22,12 @@
 
 ### 🌌 About Me
 
-```text
+<pre style="font-family: monospace; background: transparent; border: none; padding: 0; margin: 0;">
 Name     Rei
 Role     Freelancer / Developer
 Style    腹黒 · ツンデレ · ヤンデレ
 Theme    Purple Moon · Rabbit Vibes · Clean Code
-````
+</pre>
 
 * 🌙 Believing in using the right tool for the right job
 * ✨ Building with clarity, balance, and a bit of fantasy
