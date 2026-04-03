@@ -54,7 +54,7 @@ Theme    Purple Moon · Rabbit Vibes · Clean Code
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisen7&layout=compact&theme=dark&bg_color=0d1117&title_color=C084FC&text_color=CBD5E1&hide_border=true&langs_count=6" height="145px" />
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=reisen7" height="145px" />
 
 </div>
 
