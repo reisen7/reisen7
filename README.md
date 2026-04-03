@@ -29,9 +29,9 @@ Style    腹黒 · ツンデレ · ヤンデレ
 Theme    Purple Moon · Rabbit Vibes · Clean Code
 </pre>
 
-* 🌙 Believing in using the right tool for the right job
-* ✨ Building with clarity, balance, and a bit of fantasy
-* 🐇 Still chasing better code under the moonlight
+* Believing in using the right tool for the right job
+* Building with clarity, balance, and a bit of fantasy
+* Still chasing better code under the moonlight
 
 </td>
 <td valign="top" width="48%">
