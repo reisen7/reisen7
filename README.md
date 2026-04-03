@@ -23,7 +23,7 @@
 ### 🌌 About Me
 
 ```text
-Name     Ryn
+Name     Rei
 Role     Freelancer / Developer
 Style    腹黒 · ツンデレ · ヤンデレ
 Theme    Purple Moon · Rabbit Vibes · Clean Code
