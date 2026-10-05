@@ -9,8 +9,8 @@
 <a href="mailto:reisen7@foxmail.com">
   <img src="https://img.shields.io/badge/Email-reisen7%40foxmail.com-a855f7?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="tencent://message/?uin=328170849">
-  <img src="https://img.shields.io/badge/QQ-328170849-7c3aed?style=flat-square&logo=tencentqq&logoColor=white" alt="QQ" />
+<a href="https://t.me/reisen7">
+  <img src="https://img.shields.io/badge/TG-@reisen7-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="TG" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=reisen7&label=Visitors&color=A855F7&style=flat-square" alt="Visitors" />
 
