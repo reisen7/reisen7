@@ -12,8 +12,6 @@
 <a href="https://t.me/reisen7">
   <img src="https://img.shields.io/badge/TG-@reisen7-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="TG" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=reisen7&label=Visitors&color=A855F7&style=flat-square" alt="Visitors" />
-
 </div>
 
 <table align="center">
